@@ -61,6 +61,4 @@ function init() {
      console.log("done");
     });
 }
-function resetVideoHeight() {
-    $(".video").css("height", $("#results").width() * 9/16);
-}
+
